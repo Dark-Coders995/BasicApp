@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User List App</string>
+    <string name="loading">Loading…</string>
+    <string name="error_loading_users">Error loading users</string>
+    <string name="retry">Retry</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+</resources>
